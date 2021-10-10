@@ -81,3 +81,13 @@ mv EastCoordinate.txt East.txt
 
 ### Location
 ![Location](Screenshot.png)
+
+
+## Git commands
+
+```bash
+    git add *
+    git commit -m "task-##"
+    git push -u origin main
+```
+> Remote connection has been established initially
