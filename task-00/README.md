@@ -11,5 +11,5 @@ tails os
 garuda
 arch(for 1 day only thou)
 
-So yes i have distro hoped a couple of times and understood that debain is my best fit. In which I live ubuntu(thou its bloated). also non of the distros matter becoz the almost terminal is same in all those(debian based).
+So yes i have distro hoped a couple of times and understood that debain is my best fit. In which I use ubuntu(thou its bloated). Also non of the distros matter becoz the almost terminal is same in all those(debian based).
 
